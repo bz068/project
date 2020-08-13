@@ -256,7 +256,19 @@ hr{
     .navbar{
         display: block;
     }
+    nav a{
+        box-sizing: border-boxs;
+        padding: 10px;
+        border: 1px solid peru;
+        background-color:peru ;
+        border-radius: 15px;
+        text-decoration: none;
+        margin-right: 2px;
+        
+    
+    }
     .main{
         margin-top: 30%;
+        
     }
 }
