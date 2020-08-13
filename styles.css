@@ -6,7 +6,7 @@
 
 body{
 background-color: white;
-overflow-x: hidden; /* Hide horizontal scrollbar */
+/* overflow-x: hidden; Hide horizontal scrollbar */
 
 }
 
@@ -260,7 +260,7 @@ hr{
    
     .navbar{
         /* border: 1px solid; */
-        margin: auto;
+        margin: 30px;
         
         
     }
@@ -281,7 +281,7 @@ hr{
     
     }
     .main{
-        margin-top: 30%;
+        box-sizing: border-box;
         
     }
 }
