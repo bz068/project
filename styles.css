@@ -219,7 +219,10 @@ button{
     
 
 }
-
+body::-webkit-scrollbar {
+    display: none;
+  }
+  
 @media screen and (max-width: 900px){
     
     .main{
@@ -265,7 +268,7 @@ hr{
         
     }
     nav a{
-        box-sizing: border-boxs;
+        box-sizing: border-box;
         padding: 10px;
         border: 1px solid peru;
         background-color:peru ;
