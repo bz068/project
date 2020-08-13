@@ -255,6 +255,8 @@ hr{
 @media screen and (max-width: 660px){
     .navbar{
         display: block;
+        margin-bottom: 20px;
+        position: sticky;
     }
     nav a{
         box-sizing: border-boxs;
@@ -268,7 +270,7 @@ hr{
     
     }
     .main{
-        margin-top: 40%;
+        margin-top: 30%;
         
     }
 }
