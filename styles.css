@@ -253,10 +253,16 @@ hr{
 }
 
 @media screen and (max-width: 660px){
+   
+    .navbar{
+        /* border: 1px solid; */
+        margin: auto;
+        
+    }
     .navbar{
         display: block;
         margin-bottom: 20px;
-        position: sticky;
+        
     }
     nav a{
         box-sizing: border-boxs;
